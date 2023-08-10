@@ -9,7 +9,7 @@ Reprendre le tutoriel d'installation de Python dans le Wiki, et remplacer : `pip
 - `pip install xlrd`
 - `pip install prettytable`
 ### Script
-Copiez et collez simplement le code dans le dossier `main.py` dans votre éditeur.
+Copiez et collez simplement le code du fichier `main.py` dans votre éditeur.
 ### Configuration
 Quelques éléments sont à modifier :
 - Les variables `a_pp, a_pa, c_pp, c_pa, objectif` sont modifiables. Ne pas toucher aux 6 variables suivantes.
